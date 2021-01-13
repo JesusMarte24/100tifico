@@ -6,7 +6,7 @@ const Header = () => {
                 <a href="/">
                     100tifi.co
                 </a>
-        </h1>
+            </h1>
         </div>
         <div class="header__nav">
             <a href="#/">
